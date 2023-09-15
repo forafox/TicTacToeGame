@@ -4,8 +4,8 @@
 
  Red              |  Blue 
 :-------------------------:|:-------------------------:
-![](https://github.com/forafox/TicTacToe/blob/Game_release_One/images/start.png)  |  ![](https://github.com/forafox/TicTacToe/blob/Game_release_One/images/game_running.png)
-![](https://github.com/forafox/TicTacToe/blob/Game_release_One/images/wins.png)
+![](https://github.com/forafox/TicTacToeGame/blob/master/images/start.png)  |  ![](https://github.com/forafox/TicTacToeGame/blob/master/images/game_running.png)
+![](https://github.com/forafox/TicTacToeGame/blob/master/images/wins.png)
 
 ## Functionality included
 - The first move is chosen randomly
